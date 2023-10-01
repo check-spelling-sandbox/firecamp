@@ -9,6 +9,8 @@
 <h3 align="center"><b>Firecamp</b></h3>
 <p align="center"><b>dx-first open-source api devtool</b></p>
 
+ooopsies
+
 <p align="center">
    <a href="https://discord.gg/8hRaqhK"><img alt="Discord online members" src="https://badgen.net/discord/members/8hRaqhK?color=5865F2&label=Discord&style=for-the-badge" /></a>
    <a href="https://github.com/firecamp-dev/firecamp/stargazers"><img src="https://img.shields.io/github/stars/firecamp-dev/firecamp" alt="GitHub Stars"></a>
